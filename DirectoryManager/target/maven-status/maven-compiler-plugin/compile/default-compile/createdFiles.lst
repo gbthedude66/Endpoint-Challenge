@@ -1,0 +1,5 @@
+com\DirectoryManager\Directory.class
+com\DirectoryManager\DirNode.class
+com\DirectoryManager\CommandLineProcessor.class
+com\DirectoryManager\DirectoryManagerApplication.class
+com\DirectoryManager\FileSystem.class
